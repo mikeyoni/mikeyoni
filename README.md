@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/ui__mikey" target="blank"><img src="https://img.shields.io/twitter/follow/ui__mikey?logo=twitter&style=for-the-badge" alt="ui__mikey" /></a> </p>
 
-- 🔭 I’m currently working on **Personal projects and complitting coursed**
+- 🔭 I’m currently working on **Personal projects and complitting course**
 
 - 🌱 I’m currently learning **C++ && DSA**
 
