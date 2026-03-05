@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++ && DSA**
 
-- 💬 Ask me about **How to start :)**
+- 💬 Ask me about ** MY AIM **
 
 - 📫 How to reach me **uimikey1@gmail.com**
 
