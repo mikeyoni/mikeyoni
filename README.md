@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mikey</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate C++ Programmer from Bangladesh</h3>
 
 <p align="left"> <a href="https://twitter.com/ui__mikey" target="blank"><img src="https://img.shields.io/twitter/follow/ui__mikey?logo=twitter&style=for-the-badge" alt="ui__mikey" /></a> </p>
 
